@@ -25,7 +25,7 @@ const ToDoList = () => {
 
     return (
         <div className="container mt-4">
-            <h1>Todo List</h1>
+            <h1>todo list</h1>
 
             <div className="input-group mb-3">
                 <input type="text" 
